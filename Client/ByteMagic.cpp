@@ -1,5 +1,6 @@
 #include "ByteMagic.h"
 #include <climits>
+#include <cstdint>
 
 unsigned int byteOrderSwap(unsigned int num)
 {
